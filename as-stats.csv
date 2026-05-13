@@ -1,0 +1,513 @@
+lesson,l1_id,l1_en,l2_id,l2_en,l3_id,l3_en,count
+111,636553,Running,636553,Running,636553,Running,27145
+112,636553,Running,636553,Running,783324,Flyer Distribution,1716
+113,636553,Running,636553,Running,641538,Meditation,1626
+114,636553,Running,636553,Running,435023,Dance,1756
+115,636553,Running,636553,Running,572712,Voice Training,11545
+116,636553,Running,636553,Running,387018,Push-ups,1599
+117,636553,Running,636553,Running,678291,Stretching,1647
+118,636553,Running,636553,Running,166110,Swimming,1572
+121,636553,Running,783324,Flyer Distribution,636553,Running,1544
+122,636553,Running,783324,Flyer Distribution,783324,Flyer Distribution,11387
+123,636553,Running,783324,Flyer Distribution,641538,Meditation,1713
+124,636553,Running,783324,Flyer Distribution,435023,Dance,1670
+125,636553,Running,783324,Flyer Distribution,572712,Voice Training,1723
+126,636553,Running,783324,Flyer Distribution,387018,Push-ups,1685
+127,636553,Running,783324,Flyer Distribution,678291,Stretching,1632
+128,636553,Running,783324,Flyer Distribution,166110,Swimming,1631
+131,636553,Running,641538,Meditation,636553,Running,1488
+132,636553,Running,641538,Meditation,783324,Flyer Distribution,1485
+133,636553,Running,641538,Meditation,641538,Meditation,11919
+134,636553,Running,641538,Meditation,435023,Dance,1692
+135,636553,Running,641538,Meditation,572712,Voice Training,1837
+136,636553,Running,641538,Meditation,387018,Push-ups,6163
+137,636553,Running,641538,Meditation,678291,Stretching,1741
+138,636553,Running,641538,Meditation,166110,Swimming,1614
+141,636553,Running,435023,Dance,636553,Running,1522
+142,636553,Running,435023,Dance,783324,Flyer Distribution,1533
+143,636553,Running,435023,Dance,641538,Meditation,1593
+144,636553,Running,435023,Dance,435023,Dance,11643
+145,636553,Running,435023,Dance,572712,Voice Training,1631
+146,636553,Running,435023,Dance,387018,Push-ups,1665
+147,636553,Running,435023,Dance,678291,Stretching,1741
+148,636553,Running,435023,Dance,166110,Swimming,1659
+151,636553,Running,572712,Voice Training,636553,Running,1512
+152,636553,Running,572712,Voice Training,783324,Flyer Distribution,1455
+153,636553,Running,572712,Voice Training,641538,Meditation,1595
+154,636553,Running,572712,Voice Training,435023,Dance,1434
+155,636553,Running,572712,Voice Training,572712,Voice Training,1557
+156,636553,Running,572712,Voice Training,387018,Push-ups,1672
+157,636553,Running,572712,Voice Training,678291,Stretching,1726
+158,636553,Running,572712,Voice Training,166110,Swimming,1852
+161,636553,Running,387018,Push-ups,636553,Running,1638
+162,636553,Running,387018,Push-ups,783324,Flyer Distribution,1661
+163,636553,Running,387018,Push-ups,641538,Meditation,1524
+164,636553,Running,387018,Push-ups,435023,Dance,1587
+165,636553,Running,387018,Push-ups,572712,Voice Training,1591
+166,636553,Running,387018,Push-ups,387018,Push-ups,1634
+167,636553,Running,387018,Push-ups,678291,Stretching,1748
+168,636553,Running,387018,Push-ups,166110,Swimming,1656
+171,636553,Running,678291,Stretching,636553,Running,1518
+172,636553,Running,678291,Stretching,783324,Flyer Distribution,1494
+173,636553,Running,678291,Stretching,641538,Meditation,1524
+174,636553,Running,678291,Stretching,435023,Dance,1458
+175,636553,Running,678291,Stretching,572712,Voice Training,1614
+176,636553,Running,678291,Stretching,387018,Push-ups,1617
+177,636553,Running,678291,Stretching,678291,Stretching,1652
+178,636553,Running,678291,Stretching,166110,Swimming,1757
+181,636553,Running,166110,Swimming,636553,Running,1392
+182,636553,Running,166110,Swimming,783324,Flyer Distribution,1605
+183,636553,Running,166110,Swimming,641538,Meditation,1644
+184,636553,Running,166110,Swimming,435023,Dance,1460
+185,636553,Running,166110,Swimming,572712,Voice Training,1512
+186,636553,Running,166110,Swimming,387018,Push-ups,1605
+187,636553,Running,166110,Swimming,678291,Stretching,1554
+188,636553,Running,166110,Swimming,166110,Swimming,1746
+211,783324,Flyer Distribution,636553,Running,636553,Running,1525
+212,783324,Flyer Distribution,636553,Running,783324,Flyer Distribution,1467
+213,783324,Flyer Distribution,636553,Running,641538,Meditation,1495
+214,783324,Flyer Distribution,636553,Running,435023,Dance,1485
+215,783324,Flyer Distribution,636553,Running,572712,Voice Training,1526
+216,783324,Flyer Distribution,636553,Running,387018,Push-ups,1540
+217,783324,Flyer Distribution,636553,Running,678291,Stretching,1557
+218,783324,Flyer Distribution,636553,Running,166110,Swimming,1413
+221,783324,Flyer Distribution,783324,Flyer Distribution,636553,Running,1563
+222,783324,Flyer Distribution,783324,Flyer Distribution,783324,Flyer Distribution,19691
+223,783324,Flyer Distribution,783324,Flyer Distribution,641538,Meditation,11799
+224,783324,Flyer Distribution,783324,Flyer Distribution,435023,Dance,1516
+225,783324,Flyer Distribution,783324,Flyer Distribution,572712,Voice Training,1646
+226,783324,Flyer Distribution,783324,Flyer Distribution,387018,Push-ups,11371
+227,783324,Flyer Distribution,783324,Flyer Distribution,678291,Stretching,1612
+228,783324,Flyer Distribution,783324,Flyer Distribution,166110,Swimming,11333
+231,783324,Flyer Distribution,641538,Meditation,636553,Running,1618
+232,783324,Flyer Distribution,641538,Meditation,783324,Flyer Distribution,1542
+233,783324,Flyer Distribution,641538,Meditation,641538,Meditation,11472
+234,783324,Flyer Distribution,641538,Meditation,435023,Dance,1698
+235,783324,Flyer Distribution,641538,Meditation,572712,Voice Training,1657
+236,783324,Flyer Distribution,641538,Meditation,387018,Push-ups,1695
+237,783324,Flyer Distribution,641538,Meditation,678291,Stretching,1686
+238,783324,Flyer Distribution,641538,Meditation,166110,Swimming,1643
+241,783324,Flyer Distribution,435023,Dance,636553,Running,1606
+242,783324,Flyer Distribution,435023,Dance,783324,Flyer Distribution,1509
+243,783324,Flyer Distribution,435023,Dance,641538,Meditation,1555
+244,783324,Flyer Distribution,435023,Dance,435023,Dance,11604
+245,783324,Flyer Distribution,435023,Dance,572712,Voice Training,1649
+246,783324,Flyer Distribution,435023,Dance,387018,Push-ups,1604
+247,783324,Flyer Distribution,435023,Dance,678291,Stretching,1798
+248,783324,Flyer Distribution,435023,Dance,166110,Swimming,1769
+251,783324,Flyer Distribution,572712,Voice Training,636553,Running,1439
+252,783324,Flyer Distribution,572712,Voice Training,783324,Flyer Distribution,1584
+253,783324,Flyer Distribution,572712,Voice Training,641538,Meditation,1585
+254,783324,Flyer Distribution,572712,Voice Training,435023,Dance,1676
+255,783324,Flyer Distribution,572712,Voice Training,572712,Voice Training,11741
+256,783324,Flyer Distribution,572712,Voice Training,387018,Push-ups,1899
+257,783324,Flyer Distribution,572712,Voice Training,678291,Stretching,1600
+258,783324,Flyer Distribution,572712,Voice Training,166110,Swimming,1772
+261,783324,Flyer Distribution,387018,Push-ups,636553,Running,1455
+262,783324,Flyer Distribution,387018,Push-ups,783324,Flyer Distribution,1550
+263,783324,Flyer Distribution,387018,Push-ups,641538,Meditation,1530
+264,783324,Flyer Distribution,387018,Push-ups,435023,Dance,1503
+265,783324,Flyer Distribution,387018,Push-ups,572712,Voice Training,1458
+266,783324,Flyer Distribution,387018,Push-ups,387018,Push-ups,1692
+267,783324,Flyer Distribution,387018,Push-ups,678291,Stretching,1665
+268,783324,Flyer Distribution,387018,Push-ups,166110,Swimming,1688
+271,783324,Flyer Distribution,678291,Stretching,636553,Running,1534
+272,783324,Flyer Distribution,678291,Stretching,783324,Flyer Distribution,1551
+273,783324,Flyer Distribution,678291,Stretching,641538,Meditation,1572
+274,783324,Flyer Distribution,678291,Stretching,435023,Dance,1652
+275,783324,Flyer Distribution,678291,Stretching,572712,Voice Training,1510
+276,783324,Flyer Distribution,678291,Stretching,387018,Push-ups,1554
+277,783324,Flyer Distribution,678291,Stretching,678291,Stretching,11390
+278,783324,Flyer Distribution,678291,Stretching,166110,Swimming,1851
+281,783324,Flyer Distribution,166110,Swimming,636553,Running,1677
+282,783324,Flyer Distribution,166110,Swimming,783324,Flyer Distribution,1611
+283,783324,Flyer Distribution,166110,Swimming,641538,Meditation,1505
+284,783324,Flyer Distribution,166110,Swimming,435023,Dance,1425
+285,783324,Flyer Distribution,166110,Swimming,572712,Voice Training,1484
+286,783324,Flyer Distribution,166110,Swimming,387018,Push-ups,1576
+287,783324,Flyer Distribution,166110,Swimming,678291,Stretching,1626
+288,783324,Flyer Distribution,166110,Swimming,166110,Swimming,1704
+311,641538,Meditation,636553,Running,636553,Running,1469
+312,641538,Meditation,636553,Running,783324,Flyer Distribution,1536
+313,641538,Meditation,636553,Running,641538,Meditation,1727
+314,641538,Meditation,636553,Running,435023,Dance,1620
+315,641538,Meditation,636553,Running,572712,Voice Training,1398
+316,641538,Meditation,636553,Running,387018,Push-ups,1551
+317,641538,Meditation,636553,Running,678291,Stretching,1488
+318,641538,Meditation,636553,Running,166110,Swimming,1620
+321,641538,Meditation,783324,Flyer Distribution,636553,Running,1473
+322,641538,Meditation,783324,Flyer Distribution,783324,Flyer Distribution,1494
+323,641538,Meditation,783324,Flyer Distribution,641538,Meditation,1560
+324,641538,Meditation,783324,Flyer Distribution,435023,Dance,1438
+325,641538,Meditation,783324,Flyer Distribution,572712,Voice Training,1566
+326,641538,Meditation,783324,Flyer Distribution,387018,Push-ups,1514
+327,641538,Meditation,783324,Flyer Distribution,678291,Stretching,1482
+328,641538,Meditation,783324,Flyer Distribution,166110,Swimming,1557
+331,641538,Meditation,641538,Meditation,636553,Running,1623
+332,641538,Meditation,641538,Meditation,783324,Flyer Distribution,1539
+333,641538,Meditation,641538,Meditation,641538,Meditation,21016
+334,641538,Meditation,641538,Meditation,435023,Dance,1641
+335,641538,Meditation,641538,Meditation,572712,Voice Training,1692
+336,641538,Meditation,641538,Meditation,387018,Push-ups,1679
+337,641538,Meditation,641538,Meditation,678291,Stretching,1616
+338,641538,Meditation,641538,Meditation,166110,Swimming,1596
+341,641538,Meditation,435023,Dance,636553,Running,1518
+342,641538,Meditation,435023,Dance,783324,Flyer Distribution,1629
+343,641538,Meditation,435023,Dance,641538,Meditation,1455
+344,641538,Meditation,435023,Dance,435023,Dance,1540
+345,641538,Meditation,435023,Dance,572712,Voice Training,1642
+346,641538,Meditation,435023,Dance,387018,Push-ups,1733
+347,641538,Meditation,435023,Dance,678291,Stretching,1666
+348,641538,Meditation,435023,Dance,166110,Swimming,1661
+351,641538,Meditation,572712,Voice Training,636553,Running,1611
+352,641538,Meditation,572712,Voice Training,783324,Flyer Distribution,1580
+353,641538,Meditation,572712,Voice Training,641538,Meditation,1666
+354,641538,Meditation,572712,Voice Training,435023,Dance,1371
+355,641538,Meditation,572712,Voice Training,572712,Voice Training,11572
+356,641538,Meditation,572712,Voice Training,387018,Push-ups,1770
+357,641538,Meditation,572712,Voice Training,678291,Stretching,1865
+358,641538,Meditation,572712,Voice Training,166110,Swimming,1634
+361,641538,Meditation,387018,Push-ups,636553,Running,1603
+362,641538,Meditation,387018,Push-ups,783324,Flyer Distribution,1440
+363,641538,Meditation,387018,Push-ups,641538,Meditation,1680
+364,641538,Meditation,387018,Push-ups,435023,Dance,1608
+365,641538,Meditation,387018,Push-ups,572712,Voice Training,1473
+366,641538,Meditation,387018,Push-ups,387018,Push-ups,11495
+367,641538,Meditation,387018,Push-ups,678291,Stretching,1741
+368,641538,Meditation,387018,Push-ups,166110,Swimming,1673
+371,641538,Meditation,678291,Stretching,636553,Running,1566
+372,641538,Meditation,678291,Stretching,783324,Flyer Distribution,1482
+373,641538,Meditation,678291,Stretching,641538,Meditation,1503
+374,641538,Meditation,678291,Stretching,435023,Dance,1566
+375,641538,Meditation,678291,Stretching,572712,Voice Training,1623
+376,641538,Meditation,678291,Stretching,387018,Push-ups,1524
+377,641538,Meditation,678291,Stretching,678291,Stretching,1667
+378,641538,Meditation,678291,Stretching,166110,Swimming,1752
+381,641538,Meditation,166110,Swimming,636553,Running,1587
+382,641538,Meditation,166110,Swimming,783324,Flyer Distribution,1605
+383,641538,Meditation,166110,Swimming,641538,Meditation,1542
+384,641538,Meditation,166110,Swimming,435023,Dance,1623
+385,641538,Meditation,166110,Swimming,572712,Voice Training,1521
+386,641538,Meditation,166110,Swimming,387018,Push-ups,1574
+387,641538,Meditation,166110,Swimming,678291,Stretching,1501
+388,641538,Meditation,166110,Swimming,166110,Swimming,1595
+411,435023,Dance,636553,Running,636553,Running,1594
+412,435023,Dance,636553,Running,783324,Flyer Distribution,1618
+413,435023,Dance,636553,Running,641538,Meditation,1565
+414,435023,Dance,636553,Running,435023,Dance,1662
+415,435023,Dance,636553,Running,572712,Voice Training,1577
+416,435023,Dance,636553,Running,387018,Push-ups,1532
+417,435023,Dance,636553,Running,678291,Stretching,1669
+418,435023,Dance,636553,Running,166110,Swimming,1614
+421,435023,Dance,783324,Flyer Distribution,636553,Running,1592
+422,435023,Dance,783324,Flyer Distribution,783324,Flyer Distribution,1642
+423,435023,Dance,783324,Flyer Distribution,641538,Meditation,1479
+424,435023,Dance,783324,Flyer Distribution,435023,Dance,1582
+425,435023,Dance,783324,Flyer Distribution,572712,Voice Training,1560
+426,435023,Dance,783324,Flyer Distribution,387018,Push-ups,1471
+427,435023,Dance,783324,Flyer Distribution,678291,Stretching,1601
+428,435023,Dance,783324,Flyer Distribution,166110,Swimming,1400
+431,435023,Dance,641538,Meditation,636553,Running,1503
+432,435023,Dance,641538,Meditation,783324,Flyer Distribution,1647
+433,435023,Dance,641538,Meditation,641538,Meditation,1444
+434,435023,Dance,641538,Meditation,435023,Dance,1590
+435,435023,Dance,641538,Meditation,572712,Voice Training,1515
+436,435023,Dance,641538,Meditation,387018,Push-ups,1501
+437,435023,Dance,641538,Meditation,678291,Stretching,1597
+438,435023,Dance,641538,Meditation,166110,Swimming,1473
+441,435023,Dance,435023,Dance,636553,Running,1584
+442,435023,Dance,435023,Dance,783324,Flyer Distribution,1578
+443,435023,Dance,435023,Dance,641538,Meditation,1473
+444,435023,Dance,435023,Dance,435023,Dance,17443
+445,435023,Dance,435023,Dance,572712,Voice Training,11717
+446,435023,Dance,435023,Dance,387018,Push-ups,11368
+447,435023,Dance,435023,Dance,678291,Stretching,1644
+448,435023,Dance,435023,Dance,166110,Swimming,1704
+451,435023,Dance,572712,Voice Training,636553,Running,1601
+452,435023,Dance,572712,Voice Training,783324,Flyer Distribution,1490
+453,435023,Dance,572712,Voice Training,641538,Meditation,1624
+454,435023,Dance,572712,Voice Training,435023,Dance,1629
+455,435023,Dance,572712,Voice Training,572712,Voice Training,11117
+456,435023,Dance,572712,Voice Training,387018,Push-ups,1746
+457,435023,Dance,572712,Voice Training,678291,Stretching,1817
+458,435023,Dance,572712,Voice Training,166110,Swimming,1734
+461,435023,Dance,387018,Push-ups,636553,Running,1456
+462,435023,Dance,387018,Push-ups,783324,Flyer Distribution,1617
+463,435023,Dance,387018,Push-ups,641538,Meditation,1605
+464,435023,Dance,387018,Push-ups,435023,Dance,1473
+465,435023,Dance,387018,Push-ups,572712,Voice Training,1542
+466,435023,Dance,387018,Push-ups,387018,Push-ups,1730
+467,435023,Dance,387018,Push-ups,678291,Stretching,1599
+468,435023,Dance,387018,Push-ups,166110,Swimming,1814
+471,435023,Dance,678291,Stretching,636553,Running,1506
+472,435023,Dance,678291,Stretching,783324,Flyer Distribution,1542
+473,435023,Dance,678291,Stretching,641538,Meditation,1698
+474,435023,Dance,678291,Stretching,435023,Dance,1514
+475,435023,Dance,678291,Stretching,572712,Voice Training,1581
+476,435023,Dance,678291,Stretching,387018,Push-ups,1485
+477,435023,Dance,678291,Stretching,678291,Stretching,11446
+478,435023,Dance,678291,Stretching,166110,Swimming,1788
+481,435023,Dance,166110,Swimming,636553,Running,1488
+482,435023,Dance,166110,Swimming,783324,Flyer Distribution,1433
+483,435023,Dance,166110,Swimming,641538,Meditation,1494
+484,435023,Dance,166110,Swimming,435023,Dance,1644
+485,435023,Dance,166110,Swimming,572712,Voice Training,1535
+486,435023,Dance,166110,Swimming,387018,Push-ups,1638
+487,435023,Dance,166110,Swimming,678291,Stretching,1539
+488,435023,Dance,166110,Swimming,166110,Swimming,1587
+511,572712,Voice Training,636553,Running,636553,Running,1665
+512,572712,Voice Training,636553,Running,783324,Flyer Distribution,1522
+513,572712,Voice Training,636553,Running,641538,Meditation,1626
+514,572712,Voice Training,636553,Running,435023,Dance,1617
+515,572712,Voice Training,636553,Running,572712,Voice Training,1572
+516,572712,Voice Training,636553,Running,387018,Push-ups,1602
+517,572712,Voice Training,636553,Running,678291,Stretching,1611
+518,572712,Voice Training,636553,Running,166110,Swimming,1527
+521,572712,Voice Training,783324,Flyer Distribution,636553,Running,1440
+522,572712,Voice Training,783324,Flyer Distribution,783324,Flyer Distribution,1471
+523,572712,Voice Training,783324,Flyer Distribution,641538,Meditation,1710
+524,572712,Voice Training,783324,Flyer Distribution,435023,Dance,1527
+525,572712,Voice Training,783324,Flyer Distribution,572712,Voice Training,1478
+526,572712,Voice Training,783324,Flyer Distribution,387018,Push-ups,1611
+527,572712,Voice Training,783324,Flyer Distribution,678291,Stretching,1500
+528,572712,Voice Training,783324,Flyer Distribution,166110,Swimming,1650
+531,572712,Voice Training,641538,Meditation,636553,Running,1557
+532,572712,Voice Training,641538,Meditation,783324,Flyer Distribution,1467
+533,572712,Voice Training,641538,Meditation,641538,Meditation,1380
+534,572712,Voice Training,641538,Meditation,435023,Dance,1506
+535,572712,Voice Training,641538,Meditation,572712,Voice Training,1614
+536,572712,Voice Training,641538,Meditation,387018,Push-ups,1521
+537,572712,Voice Training,641538,Meditation,678291,Stretching,1383
+538,572712,Voice Training,641538,Meditation,166110,Swimming,1539
+541,572712,Voice Training,435023,Dance,636553,Running,1587
+542,572712,Voice Training,435023,Dance,783324,Flyer Distribution,1607
+543,572712,Voice Training,435023,Dance,641538,Meditation,1530
+544,572712,Voice Training,435023,Dance,435023,Dance,1578
+545,572712,Voice Training,435023,Dance,572712,Voice Training,1587
+546,572712,Voice Training,435023,Dance,387018,Push-ups,1594
+547,572712,Voice Training,435023,Dance,678291,Stretching,1632
+548,572712,Voice Training,435023,Dance,166110,Swimming,1548
+551,572712,Voice Training,572712,Voice Training,636553,Running,1514
+552,572712,Voice Training,572712,Voice Training,783324,Flyer Distribution,1485
+553,572712,Voice Training,572712,Voice Training,641538,Meditation,1549
+554,572712,Voice Training,572712,Voice Training,435023,Dance,1545
+555,572712,Voice Training,572712,Voice Training,572712,Voice Training,16756
+556,572712,Voice Training,572712,Voice Training,387018,Push-ups,1572
+557,572712,Voice Training,572712,Voice Training,678291,Stretching,11733
+558,572712,Voice Training,572712,Voice Training,166110,Swimming,1492
+561,572712,Voice Training,387018,Push-ups,636553,Running,1629
+562,572712,Voice Training,387018,Push-ups,783324,Flyer Distribution,1661
+563,572712,Voice Training,387018,Push-ups,641538,Meditation,1551
+564,572712,Voice Training,387018,Push-ups,435023,Dance,1596
+565,572712,Voice Training,387018,Push-ups,572712,Voice Training,1542
+566,572712,Voice Training,387018,Push-ups,387018,Push-ups,1659
+567,572712,Voice Training,387018,Push-ups,678291,Stretching,1693
+568,572712,Voice Training,387018,Push-ups,166110,Swimming,1719
+571,572712,Voice Training,678291,Stretching,636553,Running,1450
+572,572712,Voice Training,678291,Stretching,783324,Flyer Distribution,1629
+573,572712,Voice Training,678291,Stretching,641538,Meditation,1719
+574,572712,Voice Training,678291,Stretching,435023,Dance,1534
+575,572712,Voice Training,678291,Stretching,572712,Voice Training,1701
+576,572712,Voice Training,678291,Stretching,387018,Push-ups,1472
+577,572712,Voice Training,678291,Stretching,678291,Stretching,1653
+578,572712,Voice Training,678291,Stretching,166110,Swimming,1737
+581,572712,Voice Training,166110,Swimming,636553,Running,1646
+582,572712,Voice Training,166110,Swimming,783324,Flyer Distribution,1578
+583,572712,Voice Training,166110,Swimming,641538,Meditation,1533
+584,572712,Voice Training,166110,Swimming,435023,Dance,1632
+585,572712,Voice Training,166110,Swimming,572712,Voice Training,1521
+586,572712,Voice Training,166110,Swimming,387018,Push-ups,1545
+587,572712,Voice Training,166110,Swimming,678291,Stretching,1521
+588,572712,Voice Training,166110,Swimming,166110,Swimming,11337
+611,387018,Push-ups,636553,Running,636553,Running,1481
+612,387018,Push-ups,636553,Running,783324,Flyer Distribution,1630
+613,387018,Push-ups,636553,Running,641538,Meditation,1569
+614,387018,Push-ups,636553,Running,435023,Dance,1533
+615,387018,Push-ups,636553,Running,572712,Voice Training,1569
+616,387018,Push-ups,636553,Running,387018,Push-ups,1474
+617,387018,Push-ups,636553,Running,678291,Stretching,1551
+618,387018,Push-ups,636553,Running,166110,Swimming,1680
+621,387018,Push-ups,783324,Flyer Distribution,636553,Running,1641
+622,387018,Push-ups,783324,Flyer Distribution,783324,Flyer Distribution,1514
+623,387018,Push-ups,783324,Flyer Distribution,641538,Meditation,1592
+624,387018,Push-ups,783324,Flyer Distribution,435023,Dance,1638
+625,387018,Push-ups,783324,Flyer Distribution,572712,Voice Training,1590
+626,387018,Push-ups,783324,Flyer Distribution,387018,Push-ups,1487
+627,387018,Push-ups,783324,Flyer Distribution,678291,Stretching,1608
+628,387018,Push-ups,783324,Flyer Distribution,166110,Swimming,1496
+631,387018,Push-ups,641538,Meditation,636553,Running,1557
+632,387018,Push-ups,641538,Meditation,783324,Flyer Distribution,1713
+633,387018,Push-ups,641538,Meditation,641538,Meditation,1594
+634,387018,Push-ups,641538,Meditation,435023,Dance,1464
+635,387018,Push-ups,641538,Meditation,572712,Voice Training,1680
+636,387018,Push-ups,641538,Meditation,387018,Push-ups,1515
+637,387018,Push-ups,641538,Meditation,678291,Stretching,1437
+638,387018,Push-ups,641538,Meditation,166110,Swimming,1571
+641,387018,Push-ups,435023,Dance,636553,Running,1539
+642,387018,Push-ups,435023,Dance,783324,Flyer Distribution,1644
+643,387018,Push-ups,435023,Dance,641538,Meditation,1551
+644,387018,Push-ups,435023,Dance,435023,Dance,1609
+645,387018,Push-ups,435023,Dance,572712,Voice Training,1566
+646,387018,Push-ups,435023,Dance,387018,Push-ups,1587
+647,387018,Push-ups,435023,Dance,678291,Stretching,1514
+648,387018,Push-ups,435023,Dance,166110,Swimming,1706
+651,387018,Push-ups,572712,Voice Training,636553,Running,1521
+652,387018,Push-ups,572712,Voice Training,783324,Flyer Distribution,1494
+653,387018,Push-ups,572712,Voice Training,641538,Meditation,1548
+654,387018,Push-ups,572712,Voice Training,435023,Dance,1476
+655,387018,Push-ups,572712,Voice Training,572712,Voice Training,1519
+656,387018,Push-ups,572712,Voice Training,387018,Push-ups,1582
+657,387018,Push-ups,572712,Voice Training,678291,Stretching,1545
+658,387018,Push-ups,572712,Voice Training,166110,Swimming,1576
+661,387018,Push-ups,387018,Push-ups,636553,Running,1456
+662,387018,Push-ups,387018,Push-ups,783324,Flyer Distribution,1602
+663,387018,Push-ups,387018,Push-ups,641538,Meditation,1449
+664,387018,Push-ups,387018,Push-ups,435023,Dance,1527
+665,387018,Push-ups,387018,Push-ups,572712,Voice Training,1644
+666,387018,Push-ups,387018,Push-ups,387018,Push-ups,17998
+667,387018,Push-ups,387018,Push-ups,678291,Stretching,1689
+668,387018,Push-ups,387018,Push-ups,166110,Swimming,1623
+671,387018,Push-ups,678291,Stretching,636553,Running,1656
+672,387018,Push-ups,678291,Stretching,783324,Flyer Distribution,1512
+673,387018,Push-ups,678291,Stretching,641538,Meditation,1494
+674,387018,Push-ups,678291,Stretching,435023,Dance,1620
+675,387018,Push-ups,678291,Stretching,572712,Voice Training,1582
+676,387018,Push-ups,678291,Stretching,387018,Push-ups,1725
+677,387018,Push-ups,678291,Stretching,678291,Stretching,11265
+678,387018,Push-ups,678291,Stretching,166110,Swimming,1616
+681,387018,Push-ups,166110,Swimming,636553,Running,1581
+682,387018,Push-ups,166110,Swimming,783324,Flyer Distribution,1459
+683,387018,Push-ups,166110,Swimming,641538,Meditation,1437
+684,387018,Push-ups,166110,Swimming,435023,Dance,1574
+685,387018,Push-ups,166110,Swimming,572712,Voice Training,1560
+686,387018,Push-ups,166110,Swimming,387018,Push-ups,1668
+687,387018,Push-ups,166110,Swimming,678291,Stretching,1596
+688,387018,Push-ups,166110,Swimming,166110,Swimming,1611
+711,678291,Stretching,636553,Running,636553,Running,1553
+712,678291,Stretching,636553,Running,783324,Flyer Distribution,1567
+713,678291,Stretching,636553,Running,641538,Meditation,1557
+714,678291,Stretching,636553,Running,435023,Dance,1559
+715,678291,Stretching,636553,Running,572712,Voice Training,1460
+716,678291,Stretching,636553,Running,387018,Push-ups,1650
+717,678291,Stretching,636553,Running,678291,Stretching,1559
+718,678291,Stretching,636553,Running,166110,Swimming,1335
+721,678291,Stretching,783324,Flyer Distribution,636553,Running,1668
+722,678291,Stretching,783324,Flyer Distribution,783324,Flyer Distribution,1541
+723,678291,Stretching,783324,Flyer Distribution,641538,Meditation,1557
+724,678291,Stretching,783324,Flyer Distribution,435023,Dance,1610
+725,678291,Stretching,783324,Flyer Distribution,572712,Voice Training,1584
+726,678291,Stretching,783324,Flyer Distribution,387018,Push-ups,1506
+727,678291,Stretching,783324,Flyer Distribution,678291,Stretching,1578
+728,678291,Stretching,783324,Flyer Distribution,166110,Swimming,1626
+731,678291,Stretching,641538,Meditation,636553,Running,1609
+732,678291,Stretching,641538,Meditation,783324,Flyer Distribution,1528
+733,678291,Stretching,641538,Meditation,641538,Meditation,1650
+734,678291,Stretching,641538,Meditation,435023,Dance,1578
+735,678291,Stretching,641538,Meditation,572712,Voice Training,1530
+736,678291,Stretching,641538,Meditation,387018,Push-ups,1497
+737,678291,Stretching,641538,Meditation,678291,Stretching,1590
+738,678291,Stretching,641538,Meditation,166110,Swimming,1532
+741,678291,Stretching,435023,Dance,636553,Running,1511
+742,678291,Stretching,435023,Dance,783324,Flyer Distribution,1419
+743,678291,Stretching,435023,Dance,641538,Meditation,1596
+744,678291,Stretching,435023,Dance,435023,Dance,1521
+745,678291,Stretching,435023,Dance,572712,Voice Training,1704
+746,678291,Stretching,435023,Dance,387018,Push-ups,1652
+747,678291,Stretching,435023,Dance,678291,Stretching,1488
+748,678291,Stretching,435023,Dance,166110,Swimming,1524
+751,678291,Stretching,572712,Voice Training,636553,Running,1523
+752,678291,Stretching,572712,Voice Training,783324,Flyer Distribution,1544
+753,678291,Stretching,572712,Voice Training,641538,Meditation,1546
+754,678291,Stretching,572712,Voice Training,435023,Dance,1530
+755,678291,Stretching,572712,Voice Training,572712,Voice Training,1470
+756,678291,Stretching,572712,Voice Training,387018,Push-ups,1545
+757,678291,Stretching,572712,Voice Training,678291,Stretching,1626
+758,678291,Stretching,572712,Voice Training,166110,Swimming,1575
+761,678291,Stretching,387018,Push-ups,636553,Running,1515
+762,678291,Stretching,387018,Push-ups,783324,Flyer Distribution,1527
+763,678291,Stretching,387018,Push-ups,641538,Meditation,1512
+764,678291,Stretching,387018,Push-ups,435023,Dance,1503
+765,678291,Stretching,387018,Push-ups,572712,Voice Training,1644
+766,678291,Stretching,387018,Push-ups,387018,Push-ups,1641
+767,678291,Stretching,387018,Push-ups,678291,Stretching,1530
+768,678291,Stretching,387018,Push-ups,166110,Swimming,1601
+771,678291,Stretching,678291,Stretching,636553,Running,1605
+772,678291,Stretching,678291,Stretching,783324,Flyer Distribution,1622
+773,678291,Stretching,678291,Stretching,641538,Meditation,1527
+774,678291,Stretching,678291,Stretching,435023,Dance,1608
+775,678291,Stretching,678291,Stretching,572712,Voice Training,1556
+776,678291,Stretching,678291,Stretching,387018,Push-ups,1659
+777,678291,Stretching,678291,Stretching,678291,Stretching,16259
+778,678291,Stretching,678291,Stretching,166110,Swimming,1674
+781,678291,Stretching,166110,Swimming,636553,Running,1535
+782,678291,Stretching,166110,Swimming,783324,Flyer Distribution,1608
+783,678291,Stretching,166110,Swimming,641538,Meditation,1437
+784,678291,Stretching,166110,Swimming,435023,Dance,1543
+785,678291,Stretching,166110,Swimming,572712,Voice Training,1619
+786,678291,Stretching,166110,Swimming,387018,Push-ups,1557
+787,678291,Stretching,166110,Swimming,678291,Stretching,1607
+788,678291,Stretching,166110,Swimming,166110,Swimming,11335
+811,166110,Swimming,636553,Running,636553,Running,1564
+812,166110,Swimming,636553,Running,783324,Flyer Distribution,1434
+813,166110,Swimming,636553,Running,641538,Meditation,1496
+814,166110,Swimming,636553,Running,435023,Dance,1539
+815,166110,Swimming,636553,Running,572712,Voice Training,1566
+816,166110,Swimming,636553,Running,387018,Push-ups,1461
+817,166110,Swimming,636553,Running,678291,Stretching,1578
+818,166110,Swimming,636553,Running,166110,Swimming,1544
+821,166110,Swimming,783324,Flyer Distribution,636553,Running,1591
+822,166110,Swimming,783324,Flyer Distribution,783324,Flyer Distribution,1494
+823,166110,Swimming,783324,Flyer Distribution,641538,Meditation,1410
+824,166110,Swimming,783324,Flyer Distribution,435023,Dance,1467
+825,166110,Swimming,783324,Flyer Distribution,572712,Voice Training,1667
+826,166110,Swimming,783324,Flyer Distribution,387018,Push-ups,1552
+827,166110,Swimming,783324,Flyer Distribution,678291,Stretching,1407
+828,166110,Swimming,783324,Flyer Distribution,166110,Swimming,1419
+831,166110,Swimming,641538,Meditation,636553,Running,1629
+832,166110,Swimming,641538,Meditation,783324,Flyer Distribution,1448
+833,166110,Swimming,641538,Meditation,641538,Meditation,1604
+834,166110,Swimming,641538,Meditation,435023,Dance,1636
+835,166110,Swimming,641538,Meditation,572712,Voice Training,1626
+836,166110,Swimming,641538,Meditation,387018,Push-ups,1668
+837,166110,Swimming,641538,Meditation,678291,Stretching,1518
+838,166110,Swimming,641538,Meditation,166110,Swimming,1488
+841,166110,Swimming,435023,Dance,636553,Running,1539
+842,166110,Swimming,435023,Dance,783324,Flyer Distribution,1571
+843,166110,Swimming,435023,Dance,641538,Meditation,1475
+844,166110,Swimming,435023,Dance,435023,Dance,1529
+845,166110,Swimming,435023,Dance,572712,Voice Training,1506
+846,166110,Swimming,435023,Dance,387018,Push-ups,1491
+847,166110,Swimming,435023,Dance,678291,Stretching,1641
+848,166110,Swimming,435023,Dance,166110,Swimming,1491
+851,166110,Swimming,572712,Voice Training,636553,Running,1507
+852,166110,Swimming,572712,Voice Training,783324,Flyer Distribution,1599
+853,166110,Swimming,572712,Voice Training,641538,Meditation,1569
+854,166110,Swimming,572712,Voice Training,435023,Dance,1662
+855,166110,Swimming,572712,Voice Training,572712,Voice Training,1614
+856,166110,Swimming,572712,Voice Training,387018,Push-ups,1413
+857,166110,Swimming,572712,Voice Training,678291,Stretching,1674
+858,166110,Swimming,572712,Voice Training,166110,Swimming,1572
+861,166110,Swimming,387018,Push-ups,636553,Running,1532
+862,166110,Swimming,387018,Push-ups,783324,Flyer Distribution,1581
+863,166110,Swimming,387018,Push-ups,641538,Meditation,1526
+864,166110,Swimming,387018,Push-ups,435023,Dance,1674
+865,166110,Swimming,387018,Push-ups,572712,Voice Training,1506
+866,166110,Swimming,387018,Push-ups,387018,Push-ups,1740
+867,166110,Swimming,387018,Push-ups,678291,Stretching,1575
+868,166110,Swimming,387018,Push-ups,166110,Swimming,1526
+871,166110,Swimming,678291,Stretching,636553,Running,1659
+872,166110,Swimming,678291,Stretching,783324,Flyer Distribution,1640
+873,166110,Swimming,678291,Stretching,641538,Meditation,1539
+874,166110,Swimming,678291,Stretching,435023,Dance,1650
+875,166110,Swimming,678291,Stretching,572712,Voice Training,1551
+876,166110,Swimming,678291,Stretching,387018,Push-ups,1494
+877,166110,Swimming,678291,Stretching,678291,Stretching,1631
+878,166110,Swimming,678291,Stretching,166110,Swimming,1447
+881,166110,Swimming,166110,Swimming,636553,Running,1506
+882,166110,Swimming,166110,Swimming,783324,Flyer Distribution,1674
+883,166110,Swimming,166110,Swimming,641538,Meditation,1497
+884,166110,Swimming,166110,Swimming,435023,Dance,1613
+885,166110,Swimming,166110,Swimming,572712,Voice Training,1562
+886,166110,Swimming,166110,Swimming,387018,Push-ups,1545
+887,166110,Swimming,166110,Swimming,678291,Stretching,1500
+888,166110,Swimming,166110,Swimming,166110,Swimming,19497

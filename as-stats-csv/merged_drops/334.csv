@@ -1,0 +1,34 @@
+name,id,rarity,sum,expectation
+Skill Type Beginner Book,,1,,2.712371
+School Idol Badge,,1,,2.682511
+Guard Type Beginner Book,,1,,2.674589
+SP Type Beginner Book,,1,,2.655698
+Voltage Type Beginner Book,,1,,2.646557
+Guard Type Seed,,1,,1.474711
+SP Type Seed,,1,,1.293114
+Voltage Type Seed,,1,,1.290067
+Skill Type Seed,,2,,1.276661
+Guard Type Intermediate Book,,2,,1.096283
+Skill Type Intermediate Book,,2,,1.090798
+Voltage Type Intermediate Book,,2,,1.086533
+SP Type Intermediate Book,,2,,1.018282
+Guard Type Advanced Book,,3,,0.951249
+Guard Type Secret Book,,4,,0.949421
+Voltage Type Advanced Book,,3,,0.949421
+Skill Type Advanced Book,,3,,0.940890
+SP Type Advanced Book,,3,,0.921389
+SP Type Secret Book,,4,,0.904936
+Skill Type Secret Book,,4,,0.895186
+Voltage Type Secret Book,,4,,0.882389
+Voltage Type Sprout,,2,,0.595978
+Guard Type Sprout,,2,,0.560024
+SP Type Sprout,,2,,0.560024
+Skill Type Sprout,,2,,0.537477
+Guard Type Flower,,4,,0.486898
+Skill Type Bud,,3,,0.486289
+SP Type Bud,,3,,0.481414
+Voltage Type Flower,,4,,0.472882
+Guard Type Bud,,3,,0.463742
+SP Type Flower,,4,,0.459476
+Voltage Type Bud,,3,,0.429616
+Skill Type Flower,,4,,0.418647

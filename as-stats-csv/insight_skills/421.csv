@@ -1,0 +1,57 @@
+name,skill_id,count,expectation,estimated_weight
+Appeal+ [S],30000001,97,0.060930,970.0
+Voltage UP [L]: at 30%,30000396,96,0.060302,960.0
+Appeal UP [L]: on AC Success,30000149,73,0.045854,730.0
+SP Skill UP [S]: at 30%,30000400,70,0.043970,700.0000000000001
+Voltage Gain [SP]: at Song Start,30000523,68,0.042714,680.0
+Critical+ [S],30000002,64,0.040201,640.0
+Appeal UP [L]: at 30%,30000395,62,0.038945,620.0
+Voltage UP [L]: at 80% Remaining,30000301,59,0.037060,590.0
+Critical+ [S]: Buddy,30000007,53,0.033291,530.0
+Voltage UP [S]: at 30% / All,30000417,37,0.023241,370.0
+Voltage UP [S]: at 80% Remaining / All,30000322,32,0.020101,320.0
+Appeal UP [S]: at 30% / All,30000416,22,0.013819,220.0
+Voltage Gain [MAX]: at Song Start,30000522,22,0.013819,220.0
+Appeal UP [S]: on AC Success / All,30000170,19,0.011935,190.0
+Appeal UP [M]: on AC Success / Type,30000220,12,0.007538,120.0
+Appeal UP [M]: at 30% / Same School,30000446,10,0.006281,100.0
+Voltage UP [M]: at 80% Remaining / Same Strategy,30000362,10,0.006281,100.0
+Appeal UP [M]: on AC Success / Same Attribute,30000230,9,0.005653,90.0
+Voltage UP [M]: at 30% / Same Strategy,30000457,9,0.005653,90.0
+Appeal+ [M]: Same Strategy,30000507,8,0.005025,80.0
+Appeal+ [S]: Same Strategy,30000026,8,0.005025,80.0
+Critical+ [S]: Same Attribute,30000037,8,0.005025,80.0
+Critical+ [S]: All,30000488,8,0.005025,80.0
+Appeal UP [M]: on AC Success / Buddy,30000160,7,0.004397,70.0
+Appeal UP [M]: on AC Success / Same Strategy,30000210,7,0.004397,70.0
+Voltage UP [M]: at 30% / Type,30000467,7,0.004397,70.0
+Critical+ [M]: Same Year,30000493,6,0.003769,60.0
+Appeal UP [M]: on AC Success / Same School,30000200,6,0.003769,60.0
+Appeal UP [M]: at 30% / Buddy,30000406,6,0.003769,60.0
+Voltage UP [M]: at 80% Remaining / Same Year,30000332,6,0.003769,60.0
+Appeal UP [M]: on AC Success / Same Year,30000180,6,0.003769,60.0
+Voltage UP [M]: at 30% / Buddy,30000407,6,0.003769,60.0
+Voltage UP [M]: at 80% Remaining / Same Attribute,30000382,6,0.003769,60.0
+Appeal+ [S]: Same Year,30000011,5,0.003141,50.0
+Appeal+ [S]: Type,30000031,5,0.003141,50.0
+Shield Gain [S]: on AC Success,30000143,5,0.003141,50.0
+Voltage UP [M]: at 80% Remaining / Same School,30000352,5,0.003141,50.0
+Critical+ [M]: Same School,30000503,5,0.003141,50.0
+Voltage UP [M]: at 30% / Same School,30000447,5,0.003141,50.0
+Critical+ [M]: Type,30000513,5,0.003141,50.0
+Appeal UP [M]: at 30% / Same Year,30000426,5,0.003141,50.0
+Voltage UP [M]: at 80% Remaining / Type,30000372,4,0.002513,40.0
+Appeal+ [L],30000041,4,0.002513,40.0
+Appeal+ [S]: Same Attribute,30000036,4,0.002513,40.0
+Shield Gain [S]: at 30%,30000389,3,0.001884,30.0
+Appeal UP [M]: at 30% / Type,30000466,3,0.001884,30.0
+Voltage UP [M]: at 30% / Same Attribute,30000477,3,0.001884,30.0
+Voltage UP [M]: at 30% / Same Year,30000427,3,0.001884,30.0
+Appeal+ [M]: Same Year,30000492,3,0.001884,30.0
+Appeal UP [M]: at 30% / Same Attribute,30000476,3,0.001884,30.0
+Appeal UP [M]: at 30% / Same Strategy,30000456,2,0.001256,20.0
+Appeal+ [M]: Same School,30000502,2,0.001256,20.0
+Voltage UP [M]: at 80% Remaining / Buddy,30000312,2,0.001256,20.0
+Shield Gain [S]: at 80% Remaining,30000294,2,0.001256,20.0
+Critical+ [L],30000042,2,0.001256,20.0
+Appeal+ [M]: Same Attribute,30000517,1,0.000628,10.0

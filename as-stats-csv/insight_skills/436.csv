@@ -1,0 +1,50 @@
+name,skill_id,count,expectation,estimated_weight
+Critical UP [L]: at 30%,30000398,99,0.065956,1031.25
+Appeal+ [S]: Buddy,30000006,93,0.061959,968.75
+Critical UP [L]: at 80% Remaining,30000303,90,0.059960,937.5
+SP Skill UP [S]: on AC Success,30000154,88,0.058628,916.6666666666666
+Appeal UP [L]: at 30%,30000395,69,0.045969,718.75
+Appeal UP [L]: on AC Success,30000149,65,0.043304,677.0833333333333
+Voltage Gain [SP]: at Song Start,30000523,59,0.039307,614.5833333333333
+SP Skill UP [S]: at 30%,30000400,56,0.037308,583.3333333333334
+Critical UP [S]: at 80% Remaining / All,30000324,33,0.021985,343.75
+Critical UP [S]: at 30% / All,30000419,30,0.019987,312.5
+Voltage Gain [MAX]: at Song Start,30000522,24,0.015989,250.0
+Appeal UP [S]: on AC Success / All,30000170,21,0.013991,218.75
+Appeal UP [S]: at 30% / All,30000416,20,0.013324,208.33333333333331
+Critical UP [M]: at 80% Remaining / Buddy,30000314,11,0.007328,114.58333333333333
+Critical UP [M]: at 80% Remaining / Same Year,30000334,10,0.006662,104.16666666666666
+Appeal UP [M]: on AC Success / Type,30000220,10,0.006662,104.16666666666666
+Appeal UP [M]: at 30% / Same Year,30000426,10,0.006662,104.16666666666666
+Critical UP [M]: at 80% Remaining / Same Attribute,30000384,9,0.005996,93.75
+Critical+ [S]: Same School,30000022,9,0.005996,93.75
+Appeal UP [M]: at 30% / Same Strategy,30000456,8,0.005330,83.33333333333333
+Appeal UP [M]: at 30% / Buddy,30000406,7,0.004664,72.91666666666667
+Critical UP [M]: at 80% Remaining / Same Strategy,30000364,7,0.004664,72.91666666666667
+Critical UP [M]: at 80% Remaining / Type,30000374,7,0.004664,72.91666666666667
+Appeal UP [M]: on AC Success / Buddy,30000160,7,0.004664,72.91666666666667
+Critical+ [M]: Same Attribute,30000518,7,0.004664,72.91666666666667
+Appeal UP [M]: on AC Success / Same School,30000200,7,0.004664,72.91666666666667
+Appeal UP [M]: at 30% / Type,30000466,7,0.004664,72.91666666666667
+Appeal+ [S]: All,30000487,7,0.004664,72.91666666666667
+Appeal UP [M]: on AC Success / Same Strategy,30000210,6,0.003997,62.5
+Critical UP [M]: at 80% Remaining / Same School,30000354,6,0.003997,62.5
+Appeal UP [M]: on AC Success / Same Attribute,30000230,6,0.003997,62.5
+Critical UP [M]: at 30% / Same School,30000449,6,0.003997,62.5
+Skill Rate+ [S]: Same Year,30000014,6,0.003997,62.5
+Appeal UP [M]: on AC Success / Same Year,30000180,6,0.003997,62.5
+Appeal UP [M]: at 30% / Same School,30000446,6,0.003997,62.5
+Skill Rate+ [S]: Same Strategy,30000029,5,0.003331,52.08333333333333
+Appeal UP [M]: at 30% / Same Attribute,30000476,5,0.003331,52.08333333333333
+Skill Rate+ [M]: Same Strategy,30000510,5,0.003331,52.08333333333333
+Critical UP [M]: at 30% / Buddy,30000409,5,0.003331,52.08333333333333
+Critical UP [M]: at 30% / Same Year,30000429,4,0.002665,41.666666666666664
+Combo Count UP [S]: at Song Start,30000236,4,0.002665,41.666666666666664
+Appeal+ [M]: Buddy,30000482,3,0.001999,31.25
+Combo Count UP [S]: on AC Success,30000144,3,0.001999,31.25
+Critical UP [M]: at 30% / Same Attribute,30000479,3,0.001999,31.25
+Critical+ [S]: Type,30000032,3,0.001999,31.25
+Critical+ [M]: Same Strategy,30000508,3,0.001999,31.25
+Critical UP [M]: at 30% / Same Strategy,30000459,3,0.001999,31.25
+Combo Count UP [S]: at 30%,30000390,1,0.000666,10.416666666666666
+Combo Count UP [S]: at 80% Remaining,30000295,1,0.000666,10.416666666666666
